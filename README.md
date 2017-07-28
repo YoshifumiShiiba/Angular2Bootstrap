@@ -17,7 +17,7 @@ git clone https://github.com/YoshifumiShiiba/AngularBootstrap.git
 ```
 2. run npm install
 ```
-cd Angular2Bootstrap
+cd AngularBootstrap
 npm install
 ```
 
