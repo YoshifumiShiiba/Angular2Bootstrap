@@ -1,6 +1,6 @@
-# Angular2Bootstrap
+# AngularBootstrap
 
-This is a frame for making a weekend app immediately with Angular 2.  
+This is bootstrap tool for making a weekend app immediately with Angular.  
 This frame has sample http request service and sample router. Remove sample and build your app.  
 
 Using sass and bootstrap. You can change another style system.
@@ -13,7 +13,7 @@ Using sass and bootstrap. You can change another style system.
 
 1. clone this repository
 ```
-git clone https://github.com/YoshifumiShiiba/Angular2Bootstrap.git
+git clone https://github.com/YoshifumiShiiba/AngularBootstrap.git
 ```
 2. run npm install
 ```

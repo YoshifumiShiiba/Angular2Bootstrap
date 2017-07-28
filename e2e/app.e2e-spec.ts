@@ -1,14 +1,14 @@
-import { SassTestPage } from './app.po';
+import { AngularBootstrapPage } from './app.po';
 
-describe('sass-test App', () => {
-  let page: SassTestPage;
+describe('angular-bootstrap App', () => {
+  let page: AngularBootstrapPage;
 
   beforeEach(() => {
-    page = new SassTestPage();
+    page = new AngularBootstrapPage();
   });
 
-  it('should display message saying app works', () => {
+  it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('app works!');
+    expect(page.getParagraphText()).toEqual('Welcome to app!');
   });
 });
